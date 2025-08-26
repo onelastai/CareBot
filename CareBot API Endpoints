@@ -1,0 +1,8 @@
+## POST /vitals
+Checks health data and returns analysis
+
+## POST /support
+Provides emotional support based on vitals
+
+## GET /status
+Returns agent health and config

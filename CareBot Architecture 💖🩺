@@ -1,0 +1,7 @@
+CareBot is built as a modular TypeScript agent with the following layers:
+- Vitals Layer: Reads health data
+- Support Layer: Offers emotional and medical advice
+- Config Layer: Centralized agent settings
+- Utils Layer: Logging and helpers
+- Public Layer: Branding assets
+

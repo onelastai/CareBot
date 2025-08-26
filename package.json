@@ -1,0 +1,13 @@
+{
+  "name": "carebot",
+  "version": "0.1.0",
+  "description": "AI agent for health check and emotional support",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "ts-node": "^10.0.0"
+  }
+}
+
